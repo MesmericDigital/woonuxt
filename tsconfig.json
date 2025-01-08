@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "types": [
+            "vue"
+        ],
+        "module": "esnext",
+        "moduleResolution": "bundler"
+    }
+}
